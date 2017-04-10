@@ -1,0 +1,2 @@
+Ứng dụng cần có quyền Root để có thể thực hiện đầy đủ các chức năng.
+Nếu không có quyền Root ứng dụng sẽ bị giới hạn một số chức năng nhất định.

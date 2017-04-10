@@ -1,0 +1,16 @@
+ALL2CLOUDS
+Thực hiện sao lưu dữ liệu của hệ thống lên tài khoản đám mây cá nhân
+Các chức năng:
+- Thiết lập tài khoản đám mây
+- Sao lưu dữ liệu bao gồm
+    + Các ứng dụng cài đặt trên máy
+    + Thông tin Wi-Fi
+    + Thiết lập lịch cá nhân
+    + Tin nhắn
+    + Danh sách liên hệ
+    + Bookmarks
+- Phục hồi dữ liệu từ file backup trên cloud
+    + Lấy danh sách các file thông tin đã backup
+    + Thực hiện download đã lựa chọn
+    + Khôi phục lại dữ liệu từ file backup
+* Lưu ý backup một số dữ liệu đòi hỏi máy phải có quyền root.
